@@ -1,3 +1,6 @@
+![screencapture-previsao-do-tempo-jz-netlify-app-2023-06-08-12_44_35](https://github.com/Joyzy79/prev.temp/assets/129207028/2c143aec-7bcb-44fb-bd37-2d97ca8a57a2)
+
+
 Previsão do Tempo<br>
 Este projeto exibe a previsão do tempo de uma cidade especificada pelo usuário. Ele utiliza HTML, CSS e JavaScript para criar uma interface simples onde o usuário pode inserir o nome da cidade e obter informações sobre o clima atual.
 
